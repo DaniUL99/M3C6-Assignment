@@ -114,7 +114,9 @@ db.nombre_coleccion.insert({
 ***
 # 5.- ¿Qué es una API?
 Una API (interfaz de programación de aplicaciones) es un conjunto de reglas o protocolos que permite a las aplicaciones comunicarse entre sí. Se podría decir que una API actúa como mensajero, mandando una solicitud a un servidor, traduciendo el mensaje y entregando la respuesta al usuario.
+
 ![](imagenes/API.jpg)
+
 Los 4 tipos principales de API son:
 - __API abiertas__\
 Las API abiertas son interfaces de programación de aplicaciones de código abierto que se puede acceder con el protocolo HTTP. También se les conoce como API públicas.
